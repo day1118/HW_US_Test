@@ -14,7 +14,7 @@
 #define SERVO_KICK_UP                       90
 #define SERVO_KICK_DOWN                     10
 
-#define MAX_ULTRASONIC_DISTANCE_CM          100
+#define MAX_ULTRASONIC_DISTANCE_CM          300
 
 /*** Define constants ***/
 #define SERVO_FRONT_MIN_PWM                 450
